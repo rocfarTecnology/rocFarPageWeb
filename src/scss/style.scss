@@ -1,0 +1,11 @@
+// Import all of Bootstrap's CSS
+
+@import "bootstrap/scss/bootstrap";
+@import "./base/resets";
+@import "./abstracts/variable";
+@import "./abstracts/backgroundAndText";
+
+// import components
+
+@import "./styleComponents/navbar";
+@import "./styleComponents/carrusel";
