@@ -16,7 +16,7 @@ export default function ContactoAndText() {
                 
          
           <div className="col-sm-4 d-flex justify-content-center align-items-center">
-                <a  href="https://wa.me/543405500234?Contactame%20por%20WhattSap" target="blank"> <AiOutlineWhatsApp className="wsap"/></a>
+                <a  href="https://wa.me/543405500234?Contactame%20por%20WhattSap" target="blank"> <AiOutlineWhatsApp className="wsap mb-3"/></a>
           </div>
         </div>
     
