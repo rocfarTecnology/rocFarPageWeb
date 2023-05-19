@@ -6,7 +6,7 @@ export default function TextHome(){
                         <div>
                         <h5 className="text-p">Servicios</h5>
                         <ul>
-                            <li>Web adaptable a todos los dispositivos</li>
+                            <li>Web adaptable a todos los dispositivos, estoy probando algo</li>
                             <li>Actualizacion de contenidos</li>
                             <li>Gestion Integral de dominios</li>
                             <li>Email Profesional (@tuDominio)</li>
